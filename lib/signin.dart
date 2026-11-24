@@ -48,7 +48,7 @@ class _SignInState extends State<SignIn> {
               const CircleAvatar(
                 radius: 55,
                 backgroundImage:
-                    AssetImage('assets/library_logo.png'),
+                    AssetImage('assets/librarylogo.png'),
               ),
 
               const SizedBox(height: 20),
